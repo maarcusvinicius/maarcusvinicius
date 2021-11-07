@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Marcus Vinicius, from Brazil🇧🇷 with advanced English, a Full-Stack programmer, beginner, but eager to grow;
-- 👀 I'm interested in learning more and more about programming and getting my first junior job;
+- 🎬 I'm interested in learning more and more about programming and getting my first junior job;
 - 🌱 I'm currently learning in FrontEnd online course, working with JavaScript, HTML5, CSS3, jQuery, Bootstrap, React. I also study BackEnd with Firebase, Node JS, Mongo DB;
 - 💞️ I try to collaborate to make a difference in the digital world and grow as part of it, always looking to see something new to learn;
 - 📫 You can contact my email, marcus.editor77@gmail.com, I'm always online and available for lectures and work proposals;
