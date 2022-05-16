@@ -7,6 +7,7 @@
     />
   </a>
 </div>
+<br>
 
 👋 Olá, sou Marcus Vinicius, brasileiro com inglês avançado, programador Full-Stack, iniciante, mas ansioso para crescer;
 
@@ -17,7 +18,7 @@
 💞️ Procuro colaborar para fazer a diferença no mundo digital e crescer como parte dele, sempre procurando ver algo novo para aprender;
 
 📫 Você pode entrar em contato pelo meu email, marcus.editor77@gmail.com, estou sempre online e disponível para conversas e propostas de trabalho;
-<br><br><br>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/maarcusvinicius">
