@@ -13,9 +13,9 @@
 
 👋 Olá, sou Marcus Vinicius, brasileiro com inglês avançado, programador Full-Stack, iniciante, mas ansioso para crescer;
 
-🎬 Estou interessado em aprender cada vez mais sobre programação e conseguir meu primeiro emprego júnior;
+🎬 Estou interessado em aprender cada vez mais sobre programação e conseguir fazer diferença no mundo digital;
 
-🌱 Atualmente estou aprendendo online FrontEnd, trabalhando com JavaScript, HTML5, CSS3, jQuery, Bootstrap, React. Também estudo BackEnd com Firebase, Node JS, Mongo DB;
+🌱 Atualmente estou desenvolvendo online FrontEnd, trabalhando com ReactJS, JavaScript, TypeScript, HTML5, CSS3, jQuery, Bootstrap, React. Também BackEnd com Firebase, Node JS, Mongo DB;
 
 💞️ Procuro colaborar para fazer a diferença no mundo digital e crescer como parte dele, sempre procurando ver algo novo para aprender;
 
