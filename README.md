@@ -1,4 +1,4 @@
-<div>
+
 <a href="https://app.daily.dev/maarcusvinicius" target="_blank">
     <img
       width="290"
@@ -6,8 +6,6 @@
       src="https://api.daily.dev/devcards/c3599094123846efab91663d6921177d.png?r=96c"
     />
   </a>
-</div>
-<br>
 
 ### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img width="40" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
@@ -25,6 +23,7 @@ Sou Desenvolvedor Front End, um programador procurando fazer <br>a diferença no
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-vinicius-507718228/)](https://www.linkedin.com/in/marcus-vinicius-507718228/)
 [![Gmail Badge](https://img.shields.io/badge/-marcus.editor77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcus.editor77@gmail.com)](marcus.editor77@gmail.com)
+
 <div align="center">
   
   ![Snake animation](https://github.com/maarcusvinicius/maarcusvinicius/blob/output/github-contribution-grid-snake.svg)
