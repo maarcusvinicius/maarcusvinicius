@@ -13,8 +13,7 @@ Sou Desenvolvedor Front End, um programador procurando fazer <br>a diferença no
 
 #### Minhas ferramentas atuais
 📲 Front-end Mobile com React Native  
-🌎 Front-end Web com Reactjs  
-📡 Back-end com Nodejs  
+🌎 Front-end Web com Reactjs   
 🛠️ Typescript  
 🧰 And more...  
 
