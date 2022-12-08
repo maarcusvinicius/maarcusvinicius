@@ -14,7 +14,7 @@ Sou Desenvolvedor Web, um programador procurando fazer <br>a diferença no mundo
 #### Minhas ferramentas atuais
 📲 Front-end Mobile com React Native    
 💻 Front-end Web com Reactjs  
-📡 Back-end with Nodej   
+📡 Back-end with Nodejs   
 🔣 Typescript  
 🧰 And more...  
 
