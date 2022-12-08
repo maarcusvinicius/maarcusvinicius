@@ -12,9 +12,9 @@
 Sou Desenvolvedor Web, um programador procurando fazer <br>a diferença no mundo digital. [**Personal Site**](https://marcus-dev.vercel.app/) 🚀
 
 #### Minhas ferramentas atuais
-📲 Front-end Mobile com React Native
-💻 Front-end Web com Reactjs
-📡 Back-end with Nodejs
+📲 Front-end Mobile com React Native    
+💻 Front-end Web com Reactjs  
+📡 Back-end with Nodej   
 🔣 Typescript  
 🧰 And more...  
 
