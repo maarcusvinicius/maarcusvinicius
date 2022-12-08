@@ -9,11 +9,12 @@
 
 ### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img width="40" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
-Sou Desenvolvedor Front End, um programador procurando fazer <br>a diferença no mundo digital. [**Personal Site**](https://marcus-dev.vercel.app/). 🚀
+Sou Desenvolvedor Web, um programador procurando fazer <br>a diferença no mundo digital. [**Personal Site**](https://marcus-dev.vercel.app/). 🚀
 
 #### Minhas ferramentas atuais
-📲 Front-end Mobile com React Native  
-💻 Front-end Web com Reactjs   
+📲 Front-end Mobile com React Native
+💻 Front-end Web com Reactjs
+📡 Back-end with Nodejs
 🔣 Typescript  
 🧰 And more...  
 
