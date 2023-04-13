@@ -9,17 +9,17 @@
 
 ### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img width="40" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
-Sou Desenvolvedor Web, um programador procurando fazer <br>a diferença no mundo digital. [**Personal Site**](https://marcus-dev.vercel.app/) 🚀
+I'm a Web Developer, a programmer looking to make <br>a difference in the digital world. [**Personal Site**](https://marcus-dev.vercel.app/) 🚀
 
 #### Minhas ferramentas atuais
-📲 Front-end Mobile com React Native    
-💻 Front-end Web com Reactjs  
+📲 Front-end Mobile with React Native    
+💻 Front-end Web with Reactjs  
 📡 Back-end with Nodejs   
 🔣 Typescript  
 🧰 And more...  
 
 
-#### 💬 Encontre-me em outro lugar
+#### 💬 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-vinicius-507718228/)](https://www.linkedin.com/in/marcus-vinicius-507718228/)
 [![Gmail Badge](https://img.shields.io/badge/-marcus.editor77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcus.editor77@gmail.com)](marcus.editor77@gmail.com)
