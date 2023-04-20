@@ -11,7 +11,7 @@
 
 I'm a Web Developer, a programmer looking to make <br>a difference in the digital world. [**Personal Site**](https://marcus-dev.vercel.app/) 🚀
 
-#### Minhas ferramentas atuais
+#### My current tools
 📲 Front-end Mobile with React Native    
 💻 Front-end Web with Reactjs  
 📡 Back-end with Nodejs   
