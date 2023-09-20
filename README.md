@@ -23,10 +23,3 @@ I'm a Web Developer, a programmer looking to make <br>a difference in the digita
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-vinicius-507718228/)](https://www.linkedin.com/in/marcus-vinicius-507718228/)
 [![Gmail Badge](https://img.shields.io/badge/-marcus.editor77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcus.editor77@gmail.com)](marcus.editor77@gmail.com)
-
-<div align="center">
-  
-  ![snake gif](https://github.com/maarcusvinicius/maarcusvinicius/blob/output/github-contribution-grid-snake.gif)
-  
-</div>
-  
