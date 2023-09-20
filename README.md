@@ -26,7 +26,7 @@ I'm a Web Developer, a programmer looking to make <br>a difference in the digita
 
 <div align="center">
   
-  ![Snake animation](https://github.com/maarcusvinicius/maarcusvinicius/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/maarcusvinicius/maarcusvinicius/blob/output/github-contribution-grid-snake.gif)
   
 </div>
   
